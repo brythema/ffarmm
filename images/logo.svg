@@ -1,0 +1,28 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Groenhouten Dairy Farm crest">
+  <circle cx="100" cy="100" r="97" fill="#FAF3E6" stroke="#A9662E" stroke-width="2"/>
+  <circle cx="100" cy="100" r="86" fill="none" stroke="#A9662E" stroke-width="1" opacity="0.55"/>
+  <text x="10.88" y="87.47" transform="rotate(-82.00 10.88 87.47)" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="8.6" font-weight="700" fill="#6B4423">G</text>
+  <text x="12.89" y="77.37" transform="rotate(-75.44 12.89 77.37)" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="8.6" font-weight="700" fill="#6B4423">R</text>
+  <text x="16.05" y="67.57" transform="rotate(-68.88 16.05 67.57)" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="8.6" font-weight="700" fill="#6B4423">O</text>
+  <text x="20.30" y="58.19" transform="rotate(-62.32 20.30 58.19)" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="8.6" font-weight="700" fill="#6B4423">E</text>
+  <text x="25.60" y="49.36" transform="rotate(-55.76 25.60 49.36)" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="8.6" font-weight="700" fill="#6B4423">N</text>
+  <text x="31.87" y="41.19" transform="rotate(-49.20 31.87 41.19)" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="8.6" font-weight="700" fill="#6B4423">H</text>
+  <text x="39.03" y="33.79" transform="rotate(-42.64 39.03 33.79)" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="8.6" font-weight="700" fill="#6B4423">O</text>
+  <text x="47.00" y="27.26" transform="rotate(-36.08 47.00 27.26)" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="8.6" font-weight="700" fill="#6B4423">U</text>
+  <text x="55.65" y="21.68" transform="rotate(-29.52 55.65 21.68)" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="8.6" font-weight="700" fill="#6B4423">T</text>
+  <text x="64.89" y="17.13" transform="rotate(-22.96 64.89 17.13)" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="8.6" font-weight="700" fill="#6B4423">E</text>
+  <text x="74.59" y="13.66" transform="rotate(-16.40 74.59 13.66)" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="8.6" font-weight="700" fill="#6B4423">N</text>
+  <text x="105.15" y="10.15" transform="rotate(3.28 105.15 10.15)" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="8.6" font-weight="700" fill="#6B4423">•</text>
+  <text x="135.11" y="17.13" transform="rotate(22.96 135.11 17.13)" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="8.6" font-weight="700" fill="#6B4423">D</text>
+  <text x="144.35" y="21.68" transform="rotate(29.52 144.35 21.68)" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="8.6" font-weight="700" fill="#6B4423">A</text>
+  <text x="153.00" y="27.26" transform="rotate(36.08 153.00 27.26)" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="8.6" font-weight="700" fill="#6B4423">I</text>
+  <text x="160.97" y="33.79" transform="rotate(42.64 160.97 33.79)" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="8.6" font-weight="700" fill="#6B4423">R</text>
+  <text x="168.13" y="41.19" transform="rotate(49.20 168.13 41.19)" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="8.6" font-weight="700" fill="#6B4423">Y</text>
+  <text x="179.70" y="58.19" transform="rotate(62.32 179.70 58.19)" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="8.6" font-weight="700" fill="#6B4423">F</text>
+  <text x="183.95" y="67.57" transform="rotate(68.88 183.95 67.57)" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="8.6" font-weight="700" fill="#6B4423">A</text>
+  <text x="187.11" y="77.37" transform="rotate(75.44 187.11 77.37)" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="8.6" font-weight="700" fill="#6B4423">R</text>
+  <text x="189.12" y="87.47" transform="rotate(82.00 189.12 87.47)" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="8.6" font-weight="700" fill="#6B4423">M</text>
+
+  <text x="100" y="132" font-family="Fraunces, serif" font-size="76" font-weight="600" font-style="italic" text-anchor="middle" fill="#4A2E17">G</text>
+  <path d="M74,148 Q88,162 100,148 Q112,162 126,148" stroke="#A9662E" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>
